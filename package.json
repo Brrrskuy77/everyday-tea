@@ -1,0 +1,31 @@
+{
+  "name": "everyday-tea",
+  "version": "1.0.0",
+  "description": "Everyday with tea",
+  "main": "index.js",
+  "scripts": {
+    "test": "everydaytea"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Brrrskuy77/everyday-tea.git"
+  },
+  "keywords": [
+    "everyday",
+    "with",
+    "tea"
+  ],
+  "author": "Akbar Asif Subagiyo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Brrrskuy77/everyday-tea/issues"
+  },
+  "homepage": "https://github.com/Brrrskuy77/everyday-tea#readme",
+  "dependencies": {
+    "@types/node": "^20.11.30",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "postcss": "^8.4.38"
+  }
+}
